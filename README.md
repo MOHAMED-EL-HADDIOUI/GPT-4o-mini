@@ -1,10 +1,12 @@
-# Echo-Refraction: An AI-Powered Chat Assistant
+Here’s a corrected version of your document with a few edits for clarity and consistency:
 
-![Echo-Refraction Logo](https://via.placeholder.com/150)
+---
+
+# GPT-4o Mini: An AI-Powered Chat Assistant
 
 ## 🌟 Introduction
 
-Echo-Refraction is an innovative AI-powered chat assistant that leverages the power of GPT-4o mini to provide thoughtful, refined responses to user queries. This Streamlit-based application offers a unique three-step process of analysis, rethinking, and refinement to ensure high-quality, context-aware responses.
+Echo-Refraction is an innovative AI-powered chat assistant that leverages the capabilities of GPT-4o mini to provide thoughtful and refined responses to user queries. This Streamlit-based application features a unique three-step process of analysis, rethinking, and refinement to ensure high-quality, context-aware responses.
 
 ## 🚀 Features
 
@@ -13,7 +15,7 @@ Echo-Refraction is an innovative AI-powered chat assistant that leverages the po
   1. **Analysis**: Examines user queries for clarity and completeness.
   2. **Rethinking**: Critically evaluates and suggests improvements to initial responses.
   3. **Refinement**: Delivers a final, polished response integrating all insights.
-- **Elegant User Interface**: A clean, responsive design for an enhanced user experience.
+- **Elegant User Interface**: A clean, responsive design enhances the user experience.
 - **Conversation History**: Keep track of your chat history within the session.
 - **Response Time Tracking**: Monitors and displays the time taken for each response.
 
@@ -22,7 +24,7 @@ Echo-Refraction is an innovative AI-powered chat assistant that leverages the po
 1. Clone the repository:
    ```
    git clone https://github.com/MOHAMED-EL-HADDIOUI/GPT-4o-mini.git
-   cd GPT-4o mini
+   cd GPT-4o-mini
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -73,7 +75,7 @@ Contributions to Echo-Refraction are welcome! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
@@ -82,3 +84,7 @@ For questions or feedback, please open an issue on the GitHub repository or cont
 ---
 
 Built with ❤️ using Streamlit and GPT-4o mini
+
+--- 
+
+Let me know if you need any further adjustments!
