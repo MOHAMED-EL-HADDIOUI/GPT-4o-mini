@@ -1,7 +1,3 @@
-Here’s a corrected version of your document with a few edits for clarity and consistency:
-
----
-
 # GPT-4o Mini: An AI-Powered Chat Assistant
 
 ## 🌟 Introduction
@@ -80,11 +76,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📞 Contact
 
 For questions or feedback, please open an issue on the GitHub repository or contact the maintainer at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Built with ❤️ using Streamlit and GPT-4o mini
-
---- 
-
-Let me know if you need any further adjustments!
