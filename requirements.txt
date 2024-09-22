@@ -1,2 +1,4 @@
 streamlit==1.15.0
-duckduckgo-search==0.5.0
+duckduckgo-search==6.2.12
+primp==0.6.2
+click==8.1.7
